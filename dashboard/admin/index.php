@@ -22,8 +22,10 @@ $user_data = $stmt->fetch(PDO::FETCH_ASSOC);
 </head>
 <body>
     <div class="container">
+        <div class="btnS"> 
         <h1 class="welcome-message">Welcome <?php echo htmlspecialchars($user_data['email']); ?></h1>
         <button class="sign-out-button"><a href="authentication/admin-class.php?admin_signout">SIGN OUT</a></button>
+        </div>
     </div>
 </body>
 </html>

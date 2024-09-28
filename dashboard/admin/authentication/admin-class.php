@@ -177,7 +177,7 @@ class ADMIN
                   </div>
                   <h1>WELCOME</h1>
                   <p>hello, <strong> $email</strong></p>
-                  <p>WELCOME TO OUR System </p>
+                  <p>WELCOME TO OUR SYSTEM </p>
                   <p>If you did not sign up for an action, you can safely ignore this email.</p>
                   <p>thank you!</p>
                  </div>
